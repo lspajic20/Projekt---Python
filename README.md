@@ -1,4 +1,4 @@
-# Projekt---Python
+# Projekt-Python
 
 Projekt iz kolegija Strojno učenje i inteligentni sustavi. 
 
